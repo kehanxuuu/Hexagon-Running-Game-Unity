@@ -115,7 +115,7 @@ User gets higher score in one round by collecting more coins and diamonds, which
 
 ### Road Sign
 Road sign with fire on its top guides the user the right direction to proceed. It is designed hoping to avoid the case where the user runs around the island and loses the direction.
-<p align="center"><img src="./Img/roadsign.png"></p>
+<p align="center"><img src="./Img/RoadSign.png"></p>
 <p align="center"><i>Here we have two road signs because one is pointing towards the road while the other towards the portal.</i></p>
 
 <a name="install-instruction"/> 
