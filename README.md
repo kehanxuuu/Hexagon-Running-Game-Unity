@@ -15,9 +15,9 @@ Tested on personal laptop:
 
 [Procedural Scene Generation](#procedural-scene-generation)
 
-[Feature](#feature)
+[Features](#features)
 
-[Install Instruction](#install-instruction)
+[Install and Play Instructions](#install-and-play-instructions)
 
 [Third-Party Credits](#third-party-credits)
 
@@ -67,9 +67,9 @@ The final step builds the rest of the scene by adding terrain and landscape obje
 With the aforementioned four steps, we are able to construct a scene with much diversity and amusement, and the parkour path is actually quite challenging for me as an unexperienced gamer.
 <p align="center"><img src="./Img/view_local.png" width="800"></p>
 
-<a name="feature"/> 
+<a name="features"/> 
 
-## Feature
+## Features
 
 To add more fun, I implemented hexagon modules with special functionalities as well as other game mechanics.
 
@@ -118,9 +118,9 @@ Road sign with fire on its top guides the user the right direction to proceed. I
 <p align="center"><img src="./Img/RoadSign.png"></p>
 <p align="center"><i>Here we have two road signs because one is pointing towards the road while the other towards the portal.</i></p>
 
-<a name="install-instruction"/> 
+<a name="install-and-play-instructions"/> 
 
-## Install and Play Instruction
+## Install and Play Instructions
 
 This program is built in Unity **2019.4.3f1** and also tested on Unity **2020.3.19f1**. Simply install any of the two versions and load the project.
 
