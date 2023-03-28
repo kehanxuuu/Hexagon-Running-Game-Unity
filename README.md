@@ -4,7 +4,7 @@ Hexagon-Running-Game-Unity
 
 <p align="center"><img src="./Img/teaser.png"></p>
 
-This is a running game with running paths formed by hexagons, designed made by myself with Unity. The project is constructed with the idea of **"procedural content generation"** in mind. Actually, everything in the scene is generated automatically based solely on a user input random integer, including the hexagon path as well as the plants, rocks and the terrain. In other words, changing the random seed will lead to a completely different parkour path and environment, which stimulates the player's interest in keeping playing the game.
+This is a running game with running paths formed by hexagons, designed and made by myself with Unity. The project is constructed with the idea of **"procedural content generation"** in mind. Actually, everything in the scene is generated automatically based solely on a user input random integer, including the hexagon path as well as the plants, rocks and the terrain. In other words, changing the random seed will lead to a completely different parkour path and environment, which stimulates the player's interest in keeping playing the game.
 
 Tested on personal laptop:
 * Windows 11 x64, AMD Ryzen 9 5900HS @ 3.30 GHz 32GB
